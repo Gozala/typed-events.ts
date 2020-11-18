@@ -2,7 +2,7 @@
   "name": "esm-use",
   "private": true,
   "dependencies": {
-    "events-ts": "file:../.."
+    "typed-events.ts": "file:../.."
   },
   "scripts": {
     "test": "npm install && npx typescript --noEmit --allowJs --checkJs src/main.js"

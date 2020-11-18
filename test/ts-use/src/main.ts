@@ -1,4 +1,4 @@
-import { EventEmitter, listenerCount, on, once } from 'events-ts'
+import { EventEmitter, listenerCount, on, once } from 'typed-events.ts'
 
 
 const $secret: unique symbol = Symbol.for('secret')

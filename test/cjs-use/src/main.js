@@ -1,6 +1,6 @@
 // @ts-check
 
-const { EventEmitter, listenerCount, on, once } =  require('events-ts')
+const { EventEmitter, listenerCount, on, once } =  require('typed-events.ts')
 
 
 const $secret = Symbol.for('secret')

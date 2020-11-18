@@ -1,6 +1,6 @@
 // @ts-check
 
-import { EventEmitter, listenerCount, on, once } from 'events-ts'
+import { EventEmitter, listenerCount, on, once } from 'typed-events.ts'
 
 
 const $secret = Symbol.for('secret')

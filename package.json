@@ -1,5 +1,5 @@
 {
-  "name": "events-ts",
+  "name": "typed-events.ts",
   "version": "0.0.0-dev",
   "description": "NodeJS EventEmitter with typed listeners",
   "keywords": [
@@ -31,7 +31,7 @@
   },
   "license": "MIT",
   "author": "Irakli Gozalishvili <dev@gozala.io>",
-  "homepage": "https://github.com/gozala/events-ts",
+  "homepage": "https://github.com/gozala/typed-events.ts",
   "devDependencies": {
     "@types/node": "14.14.8",
     "mocha": "8.2.1",
